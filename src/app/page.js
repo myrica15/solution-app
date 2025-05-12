@@ -141,7 +141,7 @@ function SecretQuestionPage() { // Renamed from App to be more specific
                 )}
             </div>
              <footer className="absolute bottom-4 text-center w-full text-sm text-gray-400 text-opacity-80">
-                <p>&copy; {new Date().getFullYear()} あなたのアプリ名. All rights reserved.</p>
+                <p>&copy; {new Date().getFullYear()} チーム160</p>
             </footer>
         </div>
     );
